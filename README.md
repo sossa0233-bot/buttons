@@ -25,5 +25,5 @@ Each button includes hover effects, transitions, and active states for a realist
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/button-showcase.git
+git clone https://github.com/sossa/button-showcase.git
 
